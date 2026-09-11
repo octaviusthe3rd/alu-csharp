@@ -1,0 +1,1 @@
+A script to create and intialize a directory with a C# program using the command 'dotnet'.
