@@ -1,0 +1,1 @@
+A collection of C# tasks done during my AR/VR specilaization course at ALU. Diving into creating virtual and mixed reality experiences for users.
