@@ -7,9 +7,10 @@ class Program
 		string str = "Holberton School";
 		int count = 0;
 
-        Console.WriteLine(str);
-        Console.WriteLine(str);
-        Console.WriteLine(str);
+        Console.Write(str);
+        Console.Write(str);
+        Console.Write(str);
+        Console.WriteLine();
         Console.WriteLine(str[0..9]);
         }
 }
