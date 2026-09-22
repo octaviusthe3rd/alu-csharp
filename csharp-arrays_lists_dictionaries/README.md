@@ -1,0 +1,1 @@
+Coding activities practicing the data structures arrays, lists and dictionaries.
