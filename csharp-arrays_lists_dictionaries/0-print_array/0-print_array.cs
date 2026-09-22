@@ -10,7 +10,7 @@ class Array
             return null;
         }
 
-        int?[] numbers = new int?[size];
+        int[] numbers = new int[size];
 
         for (int x = 0; x < size; x++)
         {
