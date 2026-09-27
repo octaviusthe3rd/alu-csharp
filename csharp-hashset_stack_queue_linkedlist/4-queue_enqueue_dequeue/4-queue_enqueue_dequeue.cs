@@ -25,7 +25,7 @@ class MyQueue
         {
             while (aQueue.Count > 0)
             {
-                string front = aQueue.Dequeue(); // only .Dequeue() call in the whole method
+                string front = aQueue.Dequeue();
                 if (front == search)
                 {
                     break;
