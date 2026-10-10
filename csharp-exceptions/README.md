@@ -1,0 +1,1 @@
+Coding activities practicing exceptions.
