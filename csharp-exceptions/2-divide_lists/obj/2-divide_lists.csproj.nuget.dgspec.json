@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj": {}
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj": {
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj",
+        "projectUniqueName": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj",
         "projectName": "2-divide_lists",
-        "projectPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj",
+        "projectPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\2-divide_lists.csproj",
         "packagesPath": "C:\\Users\\Admire\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\obj\\",
+        "outputPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\2-divide_lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admire\\AppData\\Roaming\\NuGet\\NuGet.Config"
