@@ -1,1 +1,0 @@
-Coding activities practicing namespaces.
