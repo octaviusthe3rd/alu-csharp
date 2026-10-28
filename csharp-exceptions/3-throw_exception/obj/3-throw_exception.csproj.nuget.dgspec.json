@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj": {}
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj": {
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj",
+        "projectUniqueName": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj",
         "projectName": "3-throw_exception",
-        "projectPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj",
+        "projectPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\3-throw_exception.csproj",
         "packagesPath": "C:\\Users\\Admire\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\obj\\",
+        "outputPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\3-throw_exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admire\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj": {}
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj": {
+    "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj",
+        "projectUniqueName": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj",
         "projectName": "4-throw_exception_msg",
-        "projectPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj",
+        "projectPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\4-throw_exception_msg.csproj",
         "packagesPath": "C:\\Users\\Admire\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\obj\\",
+        "outputPath": "C:\\Users\\Admire\\Documents\\projects\\alu-csharp\\csharp-exceptions\\4-throw_exception_msg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admire\\AppData\\Roaming\\NuGet\\NuGet.Config"
