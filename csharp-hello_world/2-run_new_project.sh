@@ -9,3 +9,9 @@ cd './2-new_project'
 dotnet new console
 
 dotnet build
+
+cd ..
+
+./2-run_new_project.sh
+
+exit
